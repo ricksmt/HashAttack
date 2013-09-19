@@ -1,0 +1,102 @@
+Completely random
+
+8-bit digest
+Collision attack: 811955 ns
+Pre-image attack: 99500 ns
+
+9-bit digest
+Collision attack: 931224 ns
+Pre-image attack: 62690 ns
+
+10-bit digest
+Collision attack: 689713 ns
+Pre-image attack: 56148 ns
+
+11-bit digest
+Collision attack: 475906 ns
+Pre-image attack: 31129 ns
+
+12-bit digest
+Collision attack: 303627 ns
+Pre-image attack: 23808 ns
+
+13-bit digest
+Collision attack: 86047 ns
+Pre-image attack: 18189 ns
+
+14-bit digest
+Collision attack: 75158 ns
+Pre-image attack: 15011 ns
+
+15-bit digest
+Collision attack: 78357 ns
+Pre-image attack: 11135 ns
+
+16-bit digest
+Collision attack: 95378 ns
+Pre-image attack: 11586 ns
+
+17-bit digest
+Collision attack: 678413 ns
+Pre-image attack: 14478 ns
+
+18-bit digest
+Collision attack: 583486 ns
+Pre-image attack: 11894 ns
+
+19-bit digest
+Collision attack: 595380 ns
+Pre-image attack: 11524 ns
+
+20-bit digest
+Collision attack: 458557 ns
+Pre-image attack: 11791 ns
+
+21-bit digest
+Collision attack: 130363 ns
+Pre-image attack: 11135 ns
+
+22-bit digest
+Collision attack: 194119 ns
+Pre-image attack: 11442 ns
+
+23-bit digest
+Collision attack: 321550 ns
+Pre-image attack: 11648 ns
+
+24-bit digest
+Collision attack: 495798 ns
+Pre-image attack: 11873 ns
+
+25-bit digest
+Collision attack: 2389234 ns
+Pre-image attack: 14436 ns
+
+26-bit digest
+Collision attack: 2450263 ns
+Pre-image attack: 11114 ns
+
+27-bit digest
+Collision attack: 2425429 ns
+Pre-image attack: 66770 ns
+
+28-bit digest
+Collision attack: 1915726 ns
+Pre-image attack: 13637 ns
+
+29-bit digest
+Collision attack: 640516 ns
+Pre-image attack: 10971 ns
+
+30-bit digest
+Collision attack: 694122 ns
+Pre-image attack: 11299 ns
+
+31-bit digest
+Collision attack: 1028017 ns
+Pre-image attack: 11586 ns
+
+32-bit digest
+Collision attack: 1533311 ns
+Pre-image attack: 12857 ns
+
