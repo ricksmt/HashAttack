@@ -50,7 +50,7 @@ public class Collisions {
 				rand.nextBytes(bytes);
 				fixed = encrypt(new String(bytes), 8);
 				do { rand.nextBytes(bytes); }
-				while(fixed == encrypt(new String(bytes), i));
+				while(fixed != encrypt(new String(bytes), i));
 			}
 			duration = System.nanoTime() - start;
 			writer.write((duration / NUM_TEST) + " ns");
